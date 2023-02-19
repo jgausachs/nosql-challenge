@@ -1,5 +1,5 @@
-# nosql-challenge
-Submission for Challenge 12 - noSQL using mongoDB
+# Nosql-challenge
+Submission for Challenge 12 - NoSQL using mongoDB
 
 ## Summary of Analysis
 
